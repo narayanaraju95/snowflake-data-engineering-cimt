@@ -1,0 +1,5 @@
+location:
+  database: API_DATA_ENGINEERING
+  schema: BRONZE
+  name: CODE_BUNDLE_for_01_CUSTOMER_ETL_PIPELINE_task
+role: ACCOUNTADMIN
