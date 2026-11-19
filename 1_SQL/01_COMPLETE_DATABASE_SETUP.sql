@@ -140,4 +140,3 @@ SHOW TABLES IN SCHEMA API_DATA_ENGINEERING.AUDIT;
 -- END OF DATABASE SETUP
 -- =====================================================
 
-
