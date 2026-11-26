@@ -1,0 +1,5 @@
+location:
+  database: RETAIL_MEDALLION_DB
+  schema: BRONZE
+  name: CODE_BUNDLE_A2049A13
+role: ACCOUNTADMIN
